@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bambang Mahardhika ^^</h1>
 <h3 align="center">A back-end developer who is still learning to the last drop of his blood</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qlats890&label=Profile%20views&color=0e75b6&style=flat" alt="qlats890" /> </p>
 
