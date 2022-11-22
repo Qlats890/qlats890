@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bambang Mahardhika ^^</h1>
+<h1 align="center">Hi 👋, I'm Bambang Mahardhika</h1>
 <h3 align="center">A back-end developer who is still learning to the last drop of his blood</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif">
 
@@ -8,11 +8,12 @@
 
 - 📫 Just Email me ^^ **bambangmahardhika1403@gmail.com**
 
-- ⚡ Fun fact **Not all bug is a bug, maybe is a feature ehe**
+- ⚡ Fun fact **Not all bug is a bug, maybe is a feature ehe ~**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@sinnerissinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sinnerissinner" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/NWYwYWSasR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NWYwYWSasR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
