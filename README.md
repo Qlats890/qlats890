@@ -8,7 +8,7 @@
 
 - 📫 Just Email me ^^ **bambangmahardhika1403@gmail.com**
 
-- ⚡ Fun fact **Not all bug is a bug, maybe is a feature ehe ~**
+- ⚡ Fun fact **Not all bug is a bug, maybe is a feature ehe **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
